@@ -7,4 +7,4 @@
 - jkl
 - mno
 
-![I am suck](/d/test/abc.jpg)
+![I am suck](D:\test/abc.jpg)
