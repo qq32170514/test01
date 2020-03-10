@@ -1,6 +1,6 @@
 # test01
 
-https://qq32170514.github.io/yeeaaaahhhhh/s
+https://qq32170514.github.io/yeeaaaahhhhh/
 
 # 自介
 - 學歷
